@@ -2,3 +2,5 @@
 composer.lock
 /nbproject/private/
 nbproject/
+*.sublime-project
+*.sublime-workspace
